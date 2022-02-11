@@ -1,4 +1,18 @@
 ## Welcome to GitHub Pages
+  <svg xmlns="http://www.w3.org/2000/svg" height="128" width="128">
+    <!-- 100, 100 https://www.w3schools.com/graphics/svg_intro.asp -->
+    
+    <rect x="0" y="0" width="128" height="128" stroke="black" fill="transparent" stroke-width="1"/>
+    <line x1="64" y1="0" x2="64"  y2="128" stroke="black" stroke-width="1"/>
+    <line x1="0" y1="64" x2="128"  y2="64" stroke="black" stroke-width="1"/>
+
+    <circle cx="64" cy="64" r="48" stroke="green" stroke-width="4" fill="yellow" /> 
+    <!-- 210,500    https://www.w3schools.com/graphics/svg_polygon.asp  -->  
+    <polygon points="100,10 125,80 80,125" style="fill:lime;stroke:purple;stroke-width:1" />
+  
+    
+
+  </svg><br><br>
 
 You can use the [editor on GitHub](https://github.com/JoeCodeswell/mandj/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
