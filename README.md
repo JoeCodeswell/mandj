@@ -1,4 +1,9 @@
 ## Welcome to GitHub Pages
+
+## Joe's Content
+
+### Here's the first SVG
+
   <svg xmlns="http://www.w3.org/2000/svg" height="128" width="128">
     <!-- 100, 100 https://www.w3schools.com/graphics/svg_intro.asp -->
     
@@ -10,10 +15,14 @@
     <!-- 210,500    https://www.w3schools.com/graphics/svg_polygon.asp  -->  
     <polygon points="100,10 125,80 80,125" style="fill:lime;stroke:purple;stroke-width:1" />
   
-    
-
   </svg><br><br>
 
+### How to add a new page
+- [add a new page](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-page-to-your-site)
+  - [above is contained in - Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
+
+
+## The Original Content
 You can use the [editor on GitHub](https://github.com/JoeCodeswell/mandj/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
